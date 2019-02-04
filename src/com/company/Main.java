@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Hi from Idra");
 
         System.out.println("This is a new entry");
+
+        System.out.println("New Entry");
     }
 }
