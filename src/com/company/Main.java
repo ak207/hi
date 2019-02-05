@@ -12,5 +12,8 @@ public class Main {
         System.out.println("New Entry 1");
 
         System.out.println("Today Entry");
+
+        System.out.println("Today New Entry");
+
     }
 }
