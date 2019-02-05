@@ -9,7 +9,7 @@ public class Main {
 
         System.out.println("This is a new entry");
 
-        System.out.println("New Entry");
+        System.out.println("New Entry 1");
 
         System.out.println("Today Entry");
     }
